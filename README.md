@@ -1,6 +1,6 @@
-- 👋 Oiiie, eu sou o Daniel!
-- 👀 Eu estou interessado na área de computação e planejo fazer vários projetos, como jogos e sites.
-- 🌱 Atualmente estou aprendendo sobre a linguagem de programação!
-- 💞️ Estou procurando colaborar  com Lógica Computacional.
-- 📫 Como chegar a mim: E-mail ou Discord.
-- ⚡ Fato: Daqui alguns anos você verá eu virar um grande criador de jogos e sites incríveis!
+-  Oiiie, eu sou o Daniel!
+-  Eu estou interessado na área de computação e planejo fazer vários projetos, como jogos e sites.
+-  Atualmente estou aprendendo sobre a linguagem de programação!
+-  Estou procurando colaborar  com Lógica Computacional.
+-  Como chegar a mim: E-mail ou Discord.
+-  Fato: Daqui alguns anos você verá eu virar um grande criador de jogos e sites incríveis!
