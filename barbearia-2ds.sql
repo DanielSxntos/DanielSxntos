@@ -4,14 +4,14 @@ use barbearia_db;
 create table if not exists clientes (cliente_id int primary key auto_increment,
   nome varchar(100) not null,
   telefone varchar(20),
-  email varchar(100),
+  email varchar(100) unique,
   data_nascimento date,
   data_cadastro date not null);
 
 create table if not exists barbeiros (barbeiro_id int primary key auto_increment,
   nome varchar(100) not null,
   telefone varchar(20),
-  cpf varchar(11),
+  cpf varchar(11) unique,
   data_contratacao date);
 
 create table if not exists servicos (servico_id int primary key auto_increment,
